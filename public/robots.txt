@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://3701b1eb9f82487380e880d0a19d5318.bj8.agentos-app.net/sitemap.xml
